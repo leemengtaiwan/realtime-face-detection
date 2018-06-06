@@ -15,4 +15,5 @@ python run_test.py
 
 pip install torchvision
 pip install tensorflow tensorboardX
+pip install onnx
 ```
